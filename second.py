@@ -1,2 +1,2 @@
 a="svani"
-print(len(a))
+print(type(a))
