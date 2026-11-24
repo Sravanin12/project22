@@ -1,2 +1,2 @@
-a="svani"
+s="svani"
 print(len(a))
